@@ -2,14 +2,11 @@
 
 **Database Name: cateringphp**
 
-**Developed by Anthony Joboy**
+**Developed by Tanashvi Pujari**
 
 **Recommended PHP Version 5.6 or Newer**
 
 
-**Login Details**
 
-Username: liam
-Password: password
 
 
